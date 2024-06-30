@@ -1,65 +1,27 @@
-# Hi there, I'm Sai Kumar Daggupati! 👋
+<img><href :"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fdata-analysis-banner&psig=AOvVaw3Fe-HmJy-1XqYavhq1K0e-&ust=1719822358535000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDG2tnzgocDFQAAAAAdAAAAABAc"></img>
+<h1 align="center">Hi 👋, I'm Sai Kumar Daggupati</h1>
+<h3 align="center">I'm a passionate Data Analyst with over 3 years of experience at Tata Consultancy Services (TCS). I hold certifications in PL-300 (Microsoft Power BI Data Analyst) and Google Cloud Platform (GCP). I'm currently looking to transition into a data analyst role in Hyderabad or Bangalore.</h3>
 
-### Data Analyst | PL-300 Certified | GCP Certified | 3 Years Experience at TCS
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saikumardaggupati&label=Profile%20views&color=0e75b6&style=flat" alt="saikumardaggupati" /> </p>
 
----
+- 🌱 I’m currently learning **Power Bi, SQL, Advanced Excel, Python/R**
 
+- 📫 How to reach me **dsai.80748@gmail.com**
 
-## About Me
+- ⚡ Fun fact **Electrical Engineer to Data Analyst**
 
-I'm a passionate Data Analyst with over 3 years of experience at Tata Consultancy Services (TCS). I hold certifications in PL-300 (Microsoft Power BI Data Analyst) and Google Cloud Platform (GCP). I'm currently looking to transition into a data analyst role in Hyderabad or Bangalore.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sai-kumar-051365196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sai-kumar-051365196/" height="30" width="40" /></a>
+<a href="https://instagram.com/saikumar_daggupati_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saikumar_daggupati_" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/dsai_80748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/dsai_80748" height="30" width="40" /></a>
+</p>
 
-## Skills
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> </p>
 
-- **Data Analysis:** SQL, Python, R
-- **Data Visualization:** Power BI, 
-- **Database Management:** MySQL, PostgreSQL
-- **Cloud Platforms:** GCP, Azure
-- **Other Tools:** Excel, Git, JIRA
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikumardaggupati&show_icons=true&locale=en&layout=compact" alt="saikumardaggupati" /></p>
 
-## Projects
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikumardaggupati&show_icons=true&locale=en" alt="saikumardaggupati" /></p>
 
-### 1. Sales Data Analysis
-- **Description:** Analyzed sales data to identify trends and patterns.
-- **Tools Used:** SQL, Power BI, Excel
-- **GitHub Repository:** [Sales Data Analysis](https://github.com/your-username/sales-data-analysis)
-
-### 2. Customer Segmentation
-- **Description:** Used clustering techniques to segment customers based on purchasing behavior.
-- **Tools Used:** Python (Pandas, Scikit-learn), Tableau
-- **GitHub Repository:** [Customer Segmentation](https://github.com/your-username/customer-segmentation)
-
-### 3. Financial Data Dashboard
-- **Description:** Created an interactive dashboard to visualize financial data.
-- **Tools Used:** Power BI
-- **GitHub Repository:** [Financial Data Dashboard](https://github.com/your-username/financial-data-dashboard)
-
-## Certifications
-
-- **PL-300:** Microsoft Power BI Data Analyst
-- **GCP:** Google Cloud Platform Data Engineer
-
-## Experience
-
-### Tata Consultancy Services (TCS)
-**Role:** DevOps Engineer  
-**Duration:** 3 Years  
-**Responsibilities:**
-- Developed and maintained monitoring tools and dashboards to track system health.
-- Implemented automation scripts to streamline operational processes.
-- Collaborated with cross-functional teams to identify and resolve infrastructure issues.
-
-## Education
-
-**Bachelor of Technology in Sri Venkateswara College of Engineering,Kadapa**    
-June 2021
-
-## Contact Me
-
-- **LinkedIn:** https://www.linkedin.com/in/sai-kumar-051365196/
-- **Email:** dsai.80748@gmail.com
-
----
-
-![Your Motivational Quote or Tagline](url-to-your-image)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikumardaggupati&" alt="saikumardaggupati" /></p>
