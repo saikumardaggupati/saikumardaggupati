@@ -1,4 +1,4 @@
-<a width="100">[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGdGiI1crb0I1cjxx6YLAJzdPiEnUjifayRg&s)](https://rishavchanda.io)</a>
+<a width="100%">[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGdGiI1crb0I1cjxx6YLAJzdPiEnUjifayRg&s)](https://rishavchanda.io)</a>
 <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fdata-analysis-banner&psig=AOvVaw3Fe-HmJy-1XqYavhq1K0e-&ust=1719822358535000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDG2tnzgocDFQAAAAAdAAAAABAc"></a>
 <h1 align="center">Hi 👋, I'm Sai Kumar Daggupati</h1>
 <h3 align="center">I'm a passionate Data Analyst with over 3 years of experience at Tata Consultancy Services (TCS). I hold certifications in PL-300 (Microsoft Power BI Data Analyst) and Google Cloud Platform (GCP). I'm currently looking to transition into a data analyst role in Hyderabad or Bangalore.</h3>
